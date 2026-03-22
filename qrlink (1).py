@@ -44,7 +44,7 @@ class QRLinkGeneratorMod(loader.Module):
         "qr_result": "<b>Содержимое QR-кода:</b>\n<code>{}</code>",
     }
 
-    author = "@bsod4ik_plugins, @bsod4ik"
+    author = "@HModulesL, @ItzNeedlemouseNB"
 
     async def client_ready(self, client, db):
         self.client = client
