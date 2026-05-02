@@ -1,7 +1,7 @@
 # requires: aiofiles
 # scope: hikka_only
 # meta name: ReadFile
-# meta developer: @ItzFriskNB
+# meta developer: @BModulesL
 # meta version: 1.0.0
 
 import os
