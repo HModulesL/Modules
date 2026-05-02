@@ -1,7 +1,7 @@
 # requires: aiohttp Pillow
 # scope: hikka_only
 # meta name: HQuotes
-# meta developer: @ItzFriskNB
+# meta developer: @BModulesL
 # meta version: 1.0.2
 
 from __future__ import annotations
