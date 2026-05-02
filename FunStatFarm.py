@@ -1,7 +1,7 @@
 # requires:
 # scope: hikka_only
 # meta name: FunStatFarm
-# meta developer: @ItzFriskNB
+# meta developer: @BModulesL
 # meta version: 1.1.1
 
 from .. import loader, utils
