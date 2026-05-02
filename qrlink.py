@@ -1,7 +1,7 @@
 # requires: aiohttp
 # scope: hikka_only
 # meta name: qrlink
-# meta developer: @ItzFriskNB
+# meta developer: @BModulesL
 # meta version: 1.1.1
 
 from io import BytesIO
