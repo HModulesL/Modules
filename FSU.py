@@ -1,6 +1,6 @@
 # scope: hikka_only
 # meta name: FynoraStorageUploader
-# meta developer: @HModulesL
+# meta developer: @BModulesL
 # meta version: 1.0.3
 import asyncio
 
